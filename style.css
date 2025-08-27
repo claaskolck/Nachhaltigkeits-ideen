@@ -1,0 +1,32 @@
+body {
+    background-repeat: no-repeat;
+    background-image: url("https://www.vis.bayern.de/nachhaltiger_konsum/einkaufen/pic/pm_b464104270_laptop_pflanze_750.jpg");
+    background-attachment: fixed;
+    background-size: cover ;
+    background-position: center;
+    color: aliceblue;
+}
+
+#box{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(255, 255, 255) ;
+    color: black;
+    font-size: 1.5rem;
+    text-align: center;
+    margin-left: 1000px;
+    margin-top: -220px;
+    }
+@keyframes Daniel{
+    from{margin-right: 100%;}
+    to{margin-right: 0;}
+}
+
+#boxx{
+    height: 250px ;
+width: 200px;
+background-color: rgb(0, 0, 0);
+color: rgb(255, 247, 247);
+font-size: 1.5rem;
+text-align: center;
+}
