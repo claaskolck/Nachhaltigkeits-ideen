@@ -1,6 +1,8 @@
 
 body{
     margin: 0;
+
+    background: linear-gradient(to bottom lrgb(224, 224, 224)rgb(245, 244, 244));
 }
 
 *{
@@ -8,6 +10,7 @@ body{
 }
 
 .header{
+    font-family: "Funnel Display";
     position: sticky;
     top: 0;
     text-align: center;
